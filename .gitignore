@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.egg
+
+# PEP 582; used by some tools
+__pypackages__/
+
+# Environment variables
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing / linting
+.pytest_cache/
+.mypy_cache/
+.tox/
+.coverage
+.coverage.*
+coverage.xml
+nosetests.xml
+*.cover
+htmlcov/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Docker
+*.tgz
+docker-compose.override.yml
+
+# poppler (project-specific)
+poppler.zip
+.poppler/
+poppler/
+
+# Database / logs
+*.sqlite3
+*.db
+*.log
+
+# Misc
+*.tgz
+
+# Built distributions (repeat safe guard)
+dist/
+build/
+*.egg-info/

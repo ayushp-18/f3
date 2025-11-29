@@ -1,0 +1,456 @@
+{
+  "is_success": true,
+  "token_usage": {
+    "total_tokens": 0,
+    "input_tokens": 0,
+    "output_tokens": 0
+  },
+  "data": {
+    "pagewise_line_items": [
+      {
+        "page_no": "1",
+        "page_type": "Bill Detail",
+        "bill_items": [
+          {
+            "item_name": "Consultation Charge | DR PREETH! MARY JOSEPH--",
+            "item_quantity": 1.0,
+            "item_rate": 300.0,
+            "item_amount": 300.0
+          },
+          {
+            "item_name": "Consultation Charge | DR VIDYA PREMACHANDRAN--",
+            "item_quantity": 1.0,
+            "item_rate": 200.0,
+            "item_amount": 200.0
+          },
+          {
+            "item_name": "Doctors Visiting Fee | DR S SALIL KUMAR--",
+            "item_quantity": 1.0,
+            "item_rate": 250.0,
+            "item_amount": 250.0
+          },
+          {
+            "item_name": "Doctors Visiting Fee | DR S SALIL KUMAR--",
+            "item_quantity": 4.0,
+            "item_rate": 300.0,
+            "item_amount": 1200.0
+          },
+          {
+            "item_name": "RR -2-Room Rent Step Down Icu",
+            "item_quantity": 1.0,
+            "item_rate": 1000.0,
+            "item_amount": 1000.0
+          },
+          {
+            "item_name": "Room Rent Bystander Room",
+            "item_quantity": 1.0,
+            "item_rate": 900.0,
+            "item_amount": 900.0
+          },
+          {
+            "item_name": "$G201-1-Room Rent Ward A",
+            "item_quantity": 1.0,
+            "item_rate": 250.0,
+            "item_amount": 250.0
+          },
+          {
+            "item_name": "SG204-Room Rent Single Non Ac Room A",
+            "item_quantity": 3.0,
+            "item_rate": 900.0,
+            "item_amount": 2700.0
+          },
+          {
+            "item_name": "RR -2-Stepdown-Nursing Charge",
+            "item_quantity": 1.0,
+            "item_rate": 1000.0,
+            "item_amount": 1000.0
+          },
+          {
+            "item_name": "$G201-1-Nursing Charge",
+            "item_quantity": 1.0,
+            "item_rate": 400.0,
+            "item_amount": 400.0
+          },
+          {
+            "item_name": "$G204-Nursing Charge",
+            "item_quantity": 3.0,
+            "item_rate": 500.0,
+            "item_amount": 1500.0
+          },
+          {
+            "item_name": "BT",
+            "item_quantity": 1.0,
+            "item_rate": 50.0,
+            "item_amount": 50.0
+          },
+          {
+            "item_name": "Blood RIE",
+            "item_quantity": 1.0,
+            "item_rate": 260.0,
+            "item_amount": 260.0
+          },
+          {
+            "item_name": "cT",
+            "item_quantity": 1.0,
+            "item_rate": 90.0,
+            "item_amount": 90.0
+          },
+          {
+            "item_name": "Group RH",
+            "item_quantity": 1.0,
+            "item_rate": 100.0,
+            "item_amount": 100.0
+          },
+          {
+            "item_name": "HBsAg (CMIA)",
+            "item_quantity": 1.0,
+            "item_rate": 150.0,
+            "item_amount": 150.0
+          },
+          {
+            "item_name": "HCV (CIMA)",
+            "item_quantity": 1.0,
+            "item_rate": 360.0,
+            "item_amount": 360.0
+          },
+          {
+            "item_name": "HIV 1&2 (CMIA)",
+            "item_quantity": 1.0,
+            "item_rate": 300.0,
+            "item_amount": 300.0
+          },
+          {
+            "item_name": "Liver Function Test(LFT)",
+            "item_quantity": 1.0,
+            "item_rate": 400.0,
+            "item_amount": 400.0
+          },
+          {
+            "item_name": "PT INR",
+            "item_quantity": 1.0,
+            "item_rate": 150.0,
+            "item_amount": 150.0
+          },
+          {
+            "item_name": "Pus C/S",
+            "item_quantity": 1.0,
+            "item_rate": 230.0,
+            "item_amount": 230.0
+          },
+          {
+            "item_name": "RBS",
+            "item_quantity": 1.0,
+            "item_rate": 30.0,
+            "item_amount": 30.0
+          },
+          {
+            "item_name": "RFT",
+            "item_quantity": 1.0,
+            "item_rate": 290.0,
+            "item_amount": 290.0
+          },
+          {
+            "item_name": "TSH",
+            "item_quantity": 1.0,
+            "item_rate": 190.0,
+            "item_amount": 190.0
+          },
+          {
+            "item_name": "Chest PA",
+            "item_quantity": 1.0,
+            "item_rate": 250.0,
+            "item_amount": 250.0
+          },
+          {
+            "item_name": "USG Scan",
+            "item_quantity": 1.0,
+            "item_rate": 1000.0,
+            "item_amount": 1000.0
+          },
+          {
+            "item_name": "ANAES. CHARGE",
+            "item_quantity": 1.0,
+            "item_rate": 1650.0,
+            "item_amount": 1650.0
+          },
+          {
+            "item_name": "GAS CHARGES",
+            "item_quantity": 1.0,
+            "item_rate": 660.0,
+            "item_amount": 660.0
+          },
+          {
+            "item_name": "OT CHARGES",
+            "item_quantity": 1.0,
+            "item_rate": 2640.0,
+            "item_amount": 2640.0
+          },
+          {
+            "item_name": "SURGEON FEE",
+            "item_quantity": 1.0,
+            "item_rate": 3300.0,
+            "item_amount": 3300.0
+          }
+        ]
+      },
+      {
+        "page_no": "2",
+        "page_type": "Bill Detail",
+        "bill_items": [
+          {
+            "item_name": "24T14%3A21%53A03Z&se=2026-11- 25T14%3A21%3A00Z&Sr=bé&sp=ré&sig=2szJobwLVzcVSmg5IPWIRTIk7pHq2Tvifd6seRa2xRI 63D\" Response Format \"is success\": true, \"data\": { \"pagewise line items\": [ { \"page no\": \"1\", \"bill items\": [ { \"item name\": \"Consultation Charge | DR PREETHI MARY JOSEPH--\", \"item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 300.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 item name\": \"Consultation Charge | DR VIDYA PREMACHANDRAN--\", \"item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 200.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 \"item name\": \"Doctors Visiting Fee | DR S SALIL KUMAR--\", \"item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 250.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 hy { \"item name\": \"Doctors Visiting Fee | DR S SALIL KUMAR--\", \"item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 1200.0
+          }
+        ]
+      },
+      {
+        "page_no": "3",
+        "page_type": "Bill Detail",
+        "bill_items": [
+          {
+            "item_name": "\"RR -2-Room Rent Step Down Icu\", tem_amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 1000.0
+          },
+          {
+            "item_name": "1000.00, tem quantity\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 1.0
+          },
+          {
+            "item_name": "\"Room Rent Bystander Room\", tem amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 900.0
+          },
+          {
+            "item_name": "900.00, tem quantity\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 1.0
+          },
+          {
+            "item_name": "\"SG201-1-Room Rent Ward A\", tem amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 250.0
+          },
+          {
+            "item_name": "250.00, tem quantity\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 1.0
+          },
+          {
+            "item_name": "\"SG204-Room Rent Single Non Ac Room tem amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 2700.0
+          },
+          {
+            "item_name": "900.00, tem quantity\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 3.0
+          },
+          {
+            "item_name": "\"RR -2-Stepdown-Nursing Charge\", tem_amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 1000.0
+          },
+          {
+            "item_name": "1000.00, tem quantity\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 1.0
+          },
+          {
+            "item_name": "\"SG201-1-Nursing Charge\", tem amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 400.0
+          },
+          {
+            "item_name": "400.00, tem quantity\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 1.0
+          },
+          {
+            "item_name": "\"SG204-Nursing Charge\", tem amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 1500.0
+          }
+        ]
+      },
+      {
+        "page_no": "4",
+        "page_type": "Bill Detail",
+        "bill_items": [
+          {
+            "item_name": "\"item quantity\": 3.00 item name\": \"BT\", item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 50.0
+          },
+          {
+            "item_name": "item quantity\": 1.00 item name\": \"Blood R/E\", item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 260.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 \"item name\": \"CT\", \"item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 90.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 \"item name\": \"Group RH\", item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 100.0
+          },
+          {
+            "item_name": "item quantity\": 1.00 item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 150.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 \"item name\": \"HCV (CIMA)\", \"item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 360.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 item name\": \"HBsAg (CMIA)\", \"item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 300.0
+          }
+        ]
+      },
+      {
+        "page_no": "5",
+        "page_type": "Bill Detail",
+        "bill_items": [
+          {
+            "item_name": "\"item quantity\": 1.00 item name\": \"Liver Function Test (LFT)\", item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 400.0
+          },
+          {
+            "item_name": "item quantity\": 1.00 item name\": \"PT INR\", \"item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 150.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 \"item name\": \"Pus C/S\", \"item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 230.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 item name\": \"RBS\", item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 30.0
+          },
+          {
+            "item_name": "item quantity\": 1.00 item name\": \"RFT\", item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 290.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 \"item name\": \"TSH\", \"item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 190.0
+          }
+        ]
+      },
+      {
+        "page_no": "6",
+        "page_type": "Final Bill",
+        "bill_items": [
+          {
+            "item_name": "\"item amount\": 250.00, \"item rate\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 250.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 by { \"item name\": \"USG Scan\", \"item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 1000.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 by { \"item name\": \"ANAES. CHARGE\", \"item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 1650.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 by { \"item name\": \"GAS CHARGES\", \"item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 660.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 by { \"item name\": \"OT CHARGES\", \"item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 2640.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 by { \"item name\": \"SURGEON FEE\", \"item amount\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 3300.0
+          },
+          {
+            "item_name": "\"item quantity\": 1.00 } J, \"total item count\":",
+            "item_quantity": 1.0,
+            "item_rate": null,
+            "item_amount": 30.0
+          }
+        ]
+      },
+      {
+        "page_no": "7",
+        "page_type": "Bill Detail",
+        "bill_items": []
+      }
+    ],
+    "total_item_count": 67
+  }
+}
